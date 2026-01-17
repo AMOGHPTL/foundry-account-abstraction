@@ -12,3 +12,5 @@ docs/
 
 # Dotenv file
 .env
+
+echo "lib/" >> .gitignore
